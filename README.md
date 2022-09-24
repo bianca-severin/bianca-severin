@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bianca Severin</h1>
 <h3 align="center">architect turned unity & multimedia developer</h3>
 
-- 🔭 I’m currently working on [Urban Menus](https://urbanmenus.com/)
-
-- 🌱 I’m currently learning **VR development**
-
-- 📫 How to reach me **sleeplessinwien@gmail.com**
+- 🔭 Currently working on [Urban Menus](https://urbanmenus.com/) and learning **VR development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
