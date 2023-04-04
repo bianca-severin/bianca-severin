@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bianca Severin</h1>
-<h3 align="center">architect turned xr & multimedia developer</h3>
+<h1 align="center">Hi 👋, I'm Bianca, </h1>
+<h3 align="center">a Multimedia / XR Developer and Architect
+based in Vienna, Austria.</h3>
 
-- 🔭 Currently working on [Urban Menus](https://urbanmenus.com/) and developing an **VR Urban Analysis Application**
+- 🔭 I specialize in developing 3D software for participatory and impact-oriented urban planning, right now focusing on using VIRTUAL REALITY to streamline the URBAN ANALYSIS process and support architects in the early stages of project development. 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+https://biancaseverin.com/ 
+</p>
 <p align="left">
 <a href="https://twitter.com/sleeplessinwien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleeplessinwien" height="30" width="40" /></a>
 </p>
