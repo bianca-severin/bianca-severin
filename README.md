@@ -9,7 +9,7 @@ based in Vienna, Austria.</h3>
 https://biancaseverin.com/ 
 </p>
 <p align="left">
-<a href="https://twitter.com/sleeplessinwien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleeplessinwien" height="30" width="40" /></a>
+<a href="https://twitter.com/bia_severin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleeplessinwien" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
